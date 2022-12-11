@@ -6,4 +6,5 @@ The data is stored in the housePrice.csv file.
  :dizzy_face:hmmm .... our challenges!
  
 in this dataset, some houses do not have addresses, and also the size of some houses is entered incorrectly (they have a very large value). For this purpose, we should also manage these items and remove them from our dataset.
+
 Let's Go:):v:
